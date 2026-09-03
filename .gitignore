@@ -1,0 +1,6 @@
+# Generated embedding model checkpoints and split copies
+Assignment5/models/
+Assignment5/splits/
+
+# Generated tokenized corpus caches
+Assignment3/lab3_out/tokens_*
